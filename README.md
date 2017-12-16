@@ -27,11 +27,15 @@ Image below shows PIR and control panel. These can be mounted inside the clock c
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/Pong_Clock_Mockup.png)
 
 
-
+Animation below shows the new temperature display in slide mode
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/pongmk2_anim.gif)
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/pong_anim.gif)
 
+
+Aniamtion below shows the new timer display in place of standard mode. There is instant access to this mode on the control panel.
+Default time is set in code. I use 4 minutes default (for making a cup of Tea). When the timer ends the mp3 file is played and the
+display reverts to slide mode with temerature display.
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/timer_anim.gif)
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/words_anim.gif)
