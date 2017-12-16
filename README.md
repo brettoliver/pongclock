@@ -21,7 +21,12 @@ Web site: http://home.btconnect.com/brettoliver1/Pong_Clock/Pong_Clock.htm
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/PongClock.png)
 
+
+
+Image below shows PIR and control panel. These can be mounted inside the clock case if required.
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/Pong_Clock_Mockup.png)
+
+
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/pongmk2_anim.gif)
 
