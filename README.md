@@ -44,7 +44,9 @@ display reverts to slide mode with temerature display.
 
 
 
-
+Kitchen Timer
+Image below shows the case set back in the plasterboard wall so the display is almost flush with the wall. The control panel is
+located in one of the cabinets.
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/Pong_Clock_Kitchen.png)
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/schematic/schematic_v7_5.png)
