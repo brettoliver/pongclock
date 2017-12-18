@@ -51,6 +51,101 @@ located in one of the cabinets.
 
 ![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/schematic/schematic_v7_5.png)
 
+Below Switch Settings
+![alt tag](https://raw.githubusercontent.com/brettoliver/pongclock/master/images/Control_Panel.png)
+Setting the Timer
+
+"Cancel" always returns to the default display mode
+
+Press "Timer/Start" & default timer value is displayed
+
+If you want to use the default value press "Timer/Start" again and the display will start to count down
+
+If you want to set a new timer
+
+Press "Timer Down" to move down in 30 second steps or "Timer Up" to step up in 30 second steps
+
+To start timer at displayed setting press  "Timer/Start" again
+
+ 
+
+Display brightness
+
+Press "Disp Adj"
+
+Brightness is displayed. Pressing "Timer Down" cycles the brightness value in steps up to min then max again
+
+To set the displayed brightness press "Menu/Set"
+
+ 
+
+Main menu
+
+Press "Menu/Set" steps through the menu
+
+The following menu options are displayed in rotation
+
+Slide Clock
+
+Pong Clock
+
+Digits Clock
+
+Word Clock
+
+Timer Clock
+
+Setup Menu
+
+When you get to the menu option you want to select just wait and it will auto select
+
+If Setup Menu is selected a further menu is displayed again in rotation
+
+Go Back
+
+Random
+
+12/24
+
+Set Clock
+
+Disp Adjust
+
+ 
+
+ 
+
+Setting the Time
+
+Once set the time will only need changing for winter/summer time
+
+Using the "Menu/Set" button step through the main menu and select "Setup Menu"
+
+In the setup menu select "Set Clock"
+
+go through the menu using the "Timer Down" to adjust values then "Menu/Set"
+
+When the final value is set the clock resets the seconds to 0.
+
+Press the "Man Sync" button when the real seconds are nearing 30 seconds to set the clock seconds to 30.
+
+If auto sync is in use the next time the sync pulse is received the clock seconds will be set exactly to 30 seconds.
+
+ 
+
+ 
+
+Setting/Adjusting the timer alarm
+
+The alarm sounds are stored as mp3 files on the sound module
+
+Pressing "Play/Pause" will play or pause the current sound
+
+While the sound is playing pressing and holding "Vol Up/Next" or Vol Dn/Prev" will turn the alarm volume up or down
+
+Momentry pressing "Vol Up/Next" or Vol Dn/Prev" will play the next sound track on the sound module and set it as the alarm sound for the timer
+
+
 [![Pong Clock on YouTube](http://img.youtube.com/vi/52Hah4fp-WI/0.jpg)](https://youtu.be/52Hah4fp-WI)
 
 
